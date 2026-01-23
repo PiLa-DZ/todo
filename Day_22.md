@@ -4,3 +4,4 @@
 4. Functions "COUNT, MAX, MIN, AVG, SUM, CONCAT"
 5. Logical operators "AND, OR, BETWEEN, NOT, IN"
 6. Wild card "LIKE, %, _"
+7. ORDER BY, HAVING
