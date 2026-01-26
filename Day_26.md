@@ -1,0 +1,2 @@
+- [x] Organize Note Taking (4 hours) (60%)
+- [ ] Prectice (6 Hours)
