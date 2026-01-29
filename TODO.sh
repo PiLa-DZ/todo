@@ -1,12 +1,6 @@
 - [ ] EXISTS, NOT EXITSTS
-- [ ] ORDER BY ASC
-- [ ] CROSS JOIN
-- [ ] Organize Note-taking (self JOIN)
-- [ ] Review (UNION ALL)
-- [ ] Review (GROUP BY)
 - [ ] Review (VIEW)
 - [ ] Review (TRIGGER)
 - [ ] ENUM
-- [ ] CASE
 
 - [ ] "Practice" --> (Students&Courses) Database

@@ -1,0 +1,7 @@
+- [x] Difference (UNION), (Uull JOIN), (CROSS JOIN)
+- [x] CROSS JOIN
+- [x] Organize Note-taking (self JOIN)
+- [x] Review (UNION ALL)
+- [x] ORDER BY ASC
+- [x] CASE
+- [x] Review (GROUP BY)
