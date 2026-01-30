@@ -1,0 +1,10 @@
+- [x] Review (VIEW)
+- [x] Non-Updatable (VIEW)
+- [x] Review (TRIGGER)
+- [x] Scalar Subqueries
+- [x] Subqueries_in_WHERE
+    - [x] IN
+    - [x] EXISTS
+    - [x] ANY
+    - [x] ALL
+- [x] Subqueries_in_FROM
