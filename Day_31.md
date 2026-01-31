@@ -1,0 +1,7 @@
+- [x] CTEs (Common Table Expressions)
+- [x] Correlated_Subqueries
+- [x] EXISTS_vs_IN
+- [ ] Window_Functions (20%)
+- [ ] Security_DCL (5%)
+- [x] EXISTS, NOT EXITSTS
+- [x] ENUM
