@@ -1,0 +1,11 @@
+- [x] Review One-To-One RelationShip
+- [x] One-To-Many RelationShip
+- [x] Many-To-Many RelationShip
+- [x] "Practice" --> (Students&Courses) Database
+- [ ] Level 5: Relationships (The Rest of them)
+    - [x] Normalization (Introduction)
+- [ ] Database_Administration_DBA
+    - [x] Indexing_Strategies (Introduction)
+    - [x] Query_Optimization (Introduction)
+    - [x] Migrations_Concept (Introduction)
+    - [x] N+1_Problem_Demo
