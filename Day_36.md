@@ -1,0 +1,11 @@
+- Learn Prisma
+- I work 1 hours: I have faced many errors so i decide to give up I will try again from scratch
+- Try Again: The problem was just prisma version
+- What is prisma module
+- What is prisma client
+- What is npx
+- What is prisma init
+- What is schema file
+- What is Datasource
+- What is Generator_Client_blook
+- What is Model

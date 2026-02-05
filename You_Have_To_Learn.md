@@ -1,2 +1,4 @@
-- [ ] MySQL
+- [x] MySQL
+- [ ] Prisma
 - [ ] Gemini-cli
+- [ ] TypeScript
