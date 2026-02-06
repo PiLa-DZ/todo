@@ -1,2 +1,3 @@
+- Learn MySQL
 - [x] Organize Note Taking (4 hours) (60%)
 - [ ] Practice (6 Hours)

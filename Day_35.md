@@ -1,3 +1,4 @@
+- Learn MySQL
 1. [x] Architectural Design
     1. [x] Denormalization
 2. [ ] Building api (students courses) app

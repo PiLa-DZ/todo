@@ -1,3 +1,4 @@
+- Learn MySQL
 - [x] CTEs (Common Table Expressions)
 - [x] Correlated_Subqueries
 - [x] EXISTS_vs_IN

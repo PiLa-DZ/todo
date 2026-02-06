@@ -1,3 +1,4 @@
+- Learn MySQL
 - [ ] STORED PROCEDURES
     - [x] Parameters (IN)
     - [x] Variables

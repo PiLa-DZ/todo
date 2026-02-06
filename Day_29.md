@@ -1,3 +1,4 @@
+- Learn MySQL
 - [x] Difference (UNION), (Uull JOIN), (CROSS JOIN)
 - [x] CROSS JOIN
 - [x] Organize Note-taking (self JOIN)
