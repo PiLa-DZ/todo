@@ -1,3 +1,4 @@
+- Learn MySQL
 - [ ] Transactions
     - [x] ACID
         1. [x] Atomicity   (All or Nothing)

@@ -1,3 +1,4 @@
+- Learn MySQL
 - [x] Review (VIEW)
 - [x] Non-Updatable (VIEW)
 - [x] Review (TRIGGER)

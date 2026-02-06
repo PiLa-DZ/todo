@@ -1,3 +1,4 @@
+- Learn MySQL
 - [x] Review One-To-One RelationShip
 - [x] One-To-Many RelationShip
 - [x] Many-To-Many RelationShip

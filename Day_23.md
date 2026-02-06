@@ -1,3 +1,4 @@
+- Learn MySQL
 1. [x] Self JOIN (100%)
 2. [x] GROP BY, HAVING (100%)
 3. [x] VIEW (100%)

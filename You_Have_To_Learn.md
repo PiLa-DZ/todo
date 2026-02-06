@@ -1,4 +1,7 @@
 - [x] MySQL
 - [ ] Prisma
+- [ ] PostgreSQL
 - [ ] Gemini-cli
 - [ ] TypeScript
+- [ ] Database Design
+- [ ] Algorithm & Data Structur

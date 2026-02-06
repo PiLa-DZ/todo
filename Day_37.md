@@ -1,0 +1,7 @@
+- Learn Prisma
+- What is Migrate
+- What is Migrate dev
+- What is Migrate --name
+- What is Generate
+- Differences Migrate_vs_Generate
+- What is db pull

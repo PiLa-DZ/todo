@@ -1,3 +1,4 @@
+- Learn MySQL
 1. INNER JOIN, LEFT JOIN, RIGHT JOIN
 2. FULL OUTPUT JOIN (UNION, UNION ALL)
 3. Table Alias, Column Alias

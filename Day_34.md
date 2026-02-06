@@ -1,3 +1,4 @@
+- Learn MySQL
 1. [ ] Database Administrator
     1. [x] Failure_Modes
     2. [x] Profiling_Performance
