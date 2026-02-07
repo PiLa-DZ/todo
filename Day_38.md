@@ -1,0 +1,6 @@
+- Learn Prisma
+- How to install and setup prisma@6
+- What is prisma db push
+- The Prisma Development Loop
+- npx prisma migrate status
+- Prisma Schema Language (PSL)
