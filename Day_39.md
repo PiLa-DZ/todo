@@ -1,0 +1,3 @@
+- Learn Prisma (Building Projects)
+- Add_Prisma_ORM_to_an_existing_MySQL_project 
+- EduRegistry-API Project (node.js, express, prisma, mariadb)
