@@ -1,0 +1,2 @@
+- Learn Prisma
+- EduRegistry Simple Project (node.js, express, prisma, mariadb)
