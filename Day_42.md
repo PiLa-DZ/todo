@@ -1,0 +1,11 @@
+- Builgin API Broject
+- Create: API EndPoint 'Get All Users'
+- Create: API EndPoint 'Get One User By ID'
+- Create: API EndPoint 'Update One User By ID'
+- Create: API EndPoint 'Delete One User By ID'
+- Fix Error: in 'Setup: Prisma Schema Model for users and tasks' Step
+- Fix Error: in 'Setup: Prisma Schema Model for Users and Tasks` Step
+- Create: API EndPoint 'Create One Task By User ID'
+- Create: API EndPoint 'Update One Task By ID'
+- Create: API EndPoint 'Delete One Task By ID'
+- Create: API EndPoint 'Get All User Tasks By User ID'
