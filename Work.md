@@ -3,3 +3,5 @@
         - the "Day 31" Commit message to "Day 32"
     - [ ] At MySQL repo changge
         - the "Day 34" Commit message to "Day 35"
+- [ ] Tool
+    - [ ] Install MyCLI
