@@ -4,5 +4,5 @@
 1. Advanced Search Telescope
 1. Buffer Lines
 1. Autocmd
-1. Gitsigns
 1. Lazygit
+1. Gitsigns
