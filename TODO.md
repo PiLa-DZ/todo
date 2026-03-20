@@ -1,1 +1,35 @@
 # TODO
+
+- Working with Databases
+  - Relational
+    - Drizzle
+    - TypeORM
+    - Knex
+    - Sequelize
+    - Prisma
+    - Native Drivers
+  - NoSQL DBs
+    - Mongoose
+    - Prisma
+    - Native Drivers
+- Testing
+  - Vitest
+  - Jest
+  - Cypress
+  - Playwright
+- Logging
+  - Winston
+  - Morgan
+- Keep app Running
+  - pm2
+- Threads
+  - Child Process
+  - Cluster
+  - Worker Threads
+- Streams
+- Debugging
+  - Memory Leaks
+    - Garbage Collection
+  - node --inspect
+  - Using APM
+- Common Built-in Modules
