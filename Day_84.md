@@ -1,0 +1,24 @@
+# Git
+
+- Learn the Basics
+  - What is Version Control
+  - Why use Version Control
+  - Git vs Other VCS
+  - Installing Git Locally
+- What is a Repository
+  - Repository Initialization
+    - git init
+    - git config
+    - Local vs Global Config
+  - Intro and Git Commands
+    - Working Directory
+    - Staging Area
+    - Committing Changes
+  - .gitignore
+  - Viewing Commit History
+- Branching Basics
+  - Creating Branch
+  - Renaming Branch
+  - Deleting Branch
+  - Chechout Branch
+  - Merging Basics
