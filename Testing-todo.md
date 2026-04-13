@@ -15,3 +15,5 @@ You need to implement Test-Driven Development (TDD) into your current projects.
 
 | Week 1 | "Unit Testing Basics (Assertions , describe, it)" | Vitest
 | Week 2 | Mocking (How to fake a database so your tests stay fast) | Vitest (vi.mock)
+
+- [ ] Spelling Check
